@@ -4,5 +4,6 @@
     <title> The One and Only Space Elevator</title>
 </head>
 <body>
+<canvas id="space"></canvas>
 </body>
 </html>
